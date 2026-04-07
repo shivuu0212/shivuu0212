@@ -1,68 +1,68 @@
-<!-- 🌸 Animated Gradient Banner -->
+<!-- 🌸 Soft Pink Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:ff0080&height=220&section=header&text=Shivangi%20Sharma&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc0cb,50:ff69b4,100:ff1493&height=220&section=header&text=Shivangi%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=24&duration=3000&color=FF69B4&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Specialist;Next.js+%7C+AI+Integration;Clean+Code+%7C+Luxury+UI+%7C+Scalable+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=24&duration=3000&color=FF69B4&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Specialist;Next.js+%7C+AI+Integration;Building+Scalable+%26+Beautiful+Apps+%F0%9F%8C%B8" />
 </p>
 
 ---
 
-## 👑 About Me  
+## 🌷 About Me  
 
-💻 Full Stack Developer with 2+ years of experience  
-🚀 Specialized in MERN & Next.js ecosystem  
-🤖 Integrating AI (Gemini API) into real-world apps  
-🎯 Focused on performance, scalability & clean architecture  
+💖 Passionate Full Stack Developer with 2+ years experience  
+🌸 Specialized in MERN Stack & Next.js  
+🤖 Love integrating AI (Gemini API) into modern applications  
+✨ Focused on clean UI, performance & scalable architecture  
 
 ---
 
-# 💎 Tech Stack  
+# 🎀 Tech Stack  
 
 <p align="center">
 
-### 👩‍💻 Languages  
+### 💕 Languages  
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp" />
 
-### 🎨 Frontend  
+### 🌸 Frontend  
 <img src="https://skillicons.dev/icons?i=react,next,tailwind,redux,bootstrap" />
 
-### ⚙️ Backend  
+### 💗 Backend  
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis" />
 
-### 🛠 Tools  
+### 🌼 Tools  
 <img src="https://skillicons.dev/icons?i=git,github,vercel,postman" />
 
 </p>
 
 ---
 
-# 🌸 Featured Projects  
+# 🌺 Featured Projects  
 
-✨ **CRM Platform** – Enterprise dashboard with RBAC & real-time data  
-✨ **ERP System** – Centralized workflow automation  
-✨ **Smart-Recruit** – AI-powered resume screening (Gemini API)  
-✨ **Student Counseling Web App** – Secure inquiry & data management  
+💎 **CRM Platform** – Enterprise dashboard with real-time data & RBAC  
+💎 **ERP System** – Workflow automation & centralized management  
+💎 **Smart-Recruit** – AI-powered resume screening system  
+💎 **Student Counseling Web App** – Secure inquiry & database sync  
 
 ---
 
-# 📊 GitHub Analytics  
+# 🌷 GitHub Stats  
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivuu0212&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivuu0212&show_icons=true&theme=rose_pine&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivuu0212&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivuu0212&layout=compact&theme=rose_pine&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=shivuu0212&theme=radical&hide_border=true&background=0D1117" />
+<img src="https://streak-stats.demolab.com?user=shivuu0212&theme=rose-pine&hide_border=true" />
 
 </p>
 
+
 ---
 
-
-# 🤍 Connect With Me  
+# 💌 Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shivangi-sharma-3622831bb/">
@@ -71,7 +71,8 @@
 </p>
 
 ---
-<!-- 🌸 Footer Wave -->
+
+<!-- 🌸 Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:302b63,100:0f0c29&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,50:ff69b4,100:ffc0cb&height=120&section=footer"/>
 </p>
