@@ -1,53 +1,64 @@
-<!-- 🌸 Soft Pink Header -->
+<!-- Elegant Soft Gradient Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc0cb,50:ff69b4,100:ff1493&height=220&section=header&text=Shivangi%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=24&duration=3000&color=FF69B4&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Specialist;Next.js+%7C+AI+Integration;Building+Scalable+%26+Beautiful+Apps+%F0%9F%8C%B8" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=24&duration=3000&color=FF69B4&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Specialist;Next.js+%7C+AI+Integration;Building+Scalable+Applications" />
 </p>
 
 ---
 
-## 🌷 About Me  
+## About Me  
 
-💖 Passionate Full Stack Developer with 2+ years experience  
-🌸 Specialized in MERN Stack & Next.js  
-🤖 Love integrating AI (Gemini API) into modern applications  
-✨ Focused on clean UI, performance & scalable architecture  
+Full Stack Developer with 2+ years of experience building scalable web applications.
+
+- Specialized in MERN Stack and Next.js  
+- Experienced in backend architecture using Node.js & Express  
+- Integrated AI solutions using Gemini API  
+- Focused on clean UI, performance optimization, and scalable systems  
 
 ---
 
-# 🎀 Tech Stack  
+## Tech Stack  
 
 <p align="center">
 
-### 💕 Languages  
+### Languages  
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp" />
 
-### 🌸 Frontend  
+### Frontend  
 <img src="https://skillicons.dev/icons?i=react,next,tailwind,redux,bootstrap" />
 
-### 💗 Backend  
+### Backend  
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis" />
 
-### 🌼 Tools  
+### Tools  
 <img src="https://skillicons.dev/icons?i=git,github,vercel,postman" />
 
 </p>
 
 ---
 
-# 🌺 Featured Projects  
 
-💎 **CRM Platform** – Enterprise dashboard with real-time data & RBAC  
-💎 **ERP System** – Workflow automation & centralized management  
-💎 **Smart-Recruit** – AI-powered resume screening system  
-💎 **Student Counseling Web App** – Secure inquiry & database sync  
+## Key Projects  
+
+### 📊 CRM Platform  
+Enterprise dashboard with role-based access control and real-time data visualization using React, Node.js, and MongoDB.
+
+### 🏢 ERP System  
+Centralized workflow automation system streamlining HR, finance, and operational processes.
+
+### 🤖 Smart-Recruit (AI Powered)  
+AI-driven resume screening platform built with Next.js, Supabase, Prisma, and Gemini API integration.
+
+### 📝 Student Counseling Web App  
+Secure inquiry management system with structured data synchronization and optimized user interface.
 
 ---
+---
 
-# 🌷 GitHub Stats  
+## GitHub Stats  
 
 <p align="center">
 
@@ -59,20 +70,23 @@
 
 </p>
 
-
 ---
 
-# 💌 Connect With Me  
+## Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shivangi-sharma-3622831bb/">
-    <img src="https://img.shields.io/badge/LinkedIn-Shivangi_Sharma-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Shivangi_Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<!-- 🌸 Footer -->
+<p align="center">
+  Building scalable products with modern architecture and clean design.
+</p>
+
+<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,50:ff69b4,100:ffc0cb&height=120&section=footer"/>
 </p>
