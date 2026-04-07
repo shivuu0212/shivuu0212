@@ -80,8 +80,3 @@ Interactive inquiry platform with secure form handling & database integration.
 
 ---
 
-<div align="center">
-
-### 💖 "Code. Create. Scale. Repeat."  
-
-</div>
