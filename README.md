@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Shivangi Sharma ✨
+# SHIVANGI SHARMA 
 ### 💻 Full Stack Developer | MERN Stack | Next.js | AI Integration
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=24&duration=3000&color=F700FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;MERN+Stack+Developer;Next.js+%7C+AI+Integration;Clean+Code+%7C+Modern+UI+%7C+Performance+Focused" />
@@ -20,7 +20,7 @@
 
 # 🛠️ Tech Stack  
 
-<div align="center">
+<div align="left">
 
 ### 👩‍💻 Languages  
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp" />
