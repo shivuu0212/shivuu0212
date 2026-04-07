@@ -1,61 +1,87 @@
-👋 Hi, I'm Shivangi Sharma
+<div align="center">
 
-💻 Full Stack Developer | MERN Stack | Next.js | AI Integration
+# ✨ Shivangi Sharma ✨
+### 💻 Full Stack Developer | MERN Stack | Next.js | AI Integration
 
-Results-driven Full Stack Developer with 2+ years of experience building scalable and high-performance web applications using the MERN stack and modern frontend technologies.
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=24&duration=3000&color=F700FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;MERN+Stack+Developer;Next.js+%7C+AI+Integration;Clean+Code+%7C+Modern+UI+%7C+Performance+Focused" />
 
-I specialize in creating responsive, user-centric applications with clean architecture and optimized performance. Passionate about integrating AI-powered solutions into real-world products.
+</div>
 
-🚀 Tech Stack
+---
 
-Languages:
-JavaScript (ES6+), TypeScript, HTML5, CSS3, C/C++
+## 🌸 About Me  
 
-Frontend:
-React.js, Next.js 14, Tailwind CSS, Ant Design, Bootstrap, shadcn/ui, Redux Toolkit
+🚀 Results-driven Full Stack Developer with **2+ years of experience**  
+💡 Passionate about scalable architecture & performance optimization  
+🤖 Exploring AI integrations using Gemini API  
+🎯 Focused on building clean, maintainable & user-centric applications  
 
-Backend & Database:
-Node.js, Express.js, MongoDB, MySQL, Supabase, Prisma ORM, Redis, WebSocket
+---
 
-AI & Modern Tech:
-Generative AI (Gemini API), Prompt Engineering, RESTful APIs
+# 🛠️ Tech Stack  
 
-Tools:
-Git, GitHub, Postman, Vercel, NPM
+<div align="center">
 
-💼 Professional Experience
+### 👩‍💻 Languages  
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp" />
 
-🔹 Full Stack Developer – AniXon Software & Services Pvt. Ltd.
+### 🎨 Frontend  
+<img src="https://skillicons.dev/icons?i=react,next,tailwind,redux,bootstrap" />
 
-Built modular and scalable UI components using modern JavaScript frameworks
-Optimized performance and improved frontend-backend integration
-Delivered dynamic and scalable web applications
+### ⚙️ Backend & Database  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis" />
 
-🔹 Full Stack Developer – Distance Education School (SODE)
+### 🧠 Modern Tools  
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman" />
 
-Architected responsive frontend systems for high-traffic educational platforms
-Integrated RESTful APIs and improved data rendering efficiency
-Refactored legacy code to modern standards for better SEO and maintainability
-📌 Featured Projects
+</div>
 
-🔹 CRM Platform
-Enterprise-grade customer lifecycle management system with role-based access control and real-time dashboard.
+---
 
-🔹 ERP System
-Centralized enterprise solution streamlining HR, finance, and supply chain workflows.
+# 🚀 Featured Projects  
 
-🔹 Smart-Recruit (AI Powered)
+### 🔹 CRM Platform  
+Enterprise-grade customer lifecycle management system with role-based access & real-time dashboards.
+
+### 🔹 ERP System  
+Centralized enterprise solution streamlining HR, finance & supply chain workflows.
+
+### 🔹 Smart-Recruit (AI Powered)  
 AI-based resume screening platform using Gemini API, Next.js 14, Supabase & Prisma.
 
-🔹 Student Counseling Web App
-Interactive inquiry platform with secure form handling and database integration.
+### 🔹 Student Counseling Web App  
+Interactive inquiry platform with secure form handling & database integration.
 
-🎯 What I Focus On
-Scalable Architecture
-Clean & Maintainable Code
-Performance Optimization
-AI-Powered Web Applications
-Seamless Frontend-Backend Integration
-📫 Connect With Me
+---
 
-LinkedIn: https://www.linkedin.com/in/shivangi-sharma-3622831bb/
+# 📊 GitHub Stats  
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivuu0212&show_icons=true&theme=radical&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivuu0212&layout=compact&theme=radical&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=shivuu0212&theme=radical&hide_border=true" />
+
+</div>
+
+---
+
+# 🤝 Connect With Me  
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shivangi-sharma-3622831bb/">
+  <img src="https://img.shields.io/badge/LinkedIn-Shivangi_Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💖 "Code. Create. Scale. Repeat."  
+
+</div>
