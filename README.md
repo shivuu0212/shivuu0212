@@ -61,21 +61,6 @@
 
 ---
 
-# 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shivuu0212/shivuu0212/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# 👀 Profile Visitors  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivuu0212&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
-</p>
-
----
 
 # 🤍 Connect With Me  
 
@@ -86,11 +71,6 @@
 </p>
 
 ---
-
-<p align="center">
-  💖 <i>"Code. Create. Scale. Repeat."</i>
-</p>
-
 <!-- 🌸 Footer Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:302b63,100:0f0c29&height=120&section=footer"/>
