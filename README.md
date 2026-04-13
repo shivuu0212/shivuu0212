@@ -82,9 +82,6 @@ Secure inquiry management system with structured data synchronization and optimi
 
 ---
 
-<p align="center">
-  Building scalable products with modern architecture and clean design.
-</p>
 
 <!-- Footer -->
 <p align="center">
