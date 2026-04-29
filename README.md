@@ -1,7 +1,8 @@
 <!-- Elegant Purple Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,19,24&height=220&section=header&text=Shivangi%20Sharma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=65&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,50:6a0dad,100:4b0082&height=220&section=header&text=Shivangi%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=24&duration=3000&color=8E2DE2&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Specialist;Next.js+%7C+AI+Integration;Building+Scalable+Applications" />
 </p>
